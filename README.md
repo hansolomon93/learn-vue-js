@@ -1,12 +1,24 @@
 # Vue.js 시작하기
+[Vue.js 시작하기 - Age of Vue.js]
 
-[Vue.js 시작하기 인프런 강의](https://inf.run/RxKK)와 [Vue 3 시작하기 인프런 강의](https://inf.run/kRHp) 리포지토리입니다.
+## 2025-12-16 강의 시청
+### 섹션 1. 개발환경 설정
+  1. 프로그램 설치
+  2. 수업 소스코드 안내
+  3. VSCode에서 수업 코드 보는 방법
+  4. VSCode 플러그인 설치 및 설정
+     - Vetur
+     - Night Owl
+     - Material Icon Theme
+     - Live Server
+     - ESLint
+     - Prettier
+     - Auto Close Tag
+     - Atom Keymap
+  5. 뷰 개발자 도구 소개 및 실행 방법
 
-![인프런 Vue 3 시작하기 강의 썸네일](https://cdn.inflearn.com/public/courses/332010/cover/fffd02eb-685e-44ab-aa0d-6788349338c5/332010-eng.png)
-
-## License & Copyright
-
-**Copyright © 2021-2023 Captain Pangyo**
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivs 4.0 Unported License</a>.
-# learn-vue-js
+## 2025-12-17 강의 시청
+### 섹션 2. Vue.js소개
+  1. MVVM모델에서의 Vue
+  2. 기존 웹 개발 방식(HTML, Javascript)
+  3. Reactivity 구현
