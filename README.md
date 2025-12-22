@@ -19,6 +19,18 @@
 
 ## 2025-12-17 강의 시청
 ### 섹션 2. Vue.js소개
-  1. MVVM모델에서의 Vue
-  2. 기존 웹 개발 방식(HTML, Javascript)
-  3. Reactivity 구현
+  6. MVVM모델에서의 Vue
+  7. 기존 웹 개발 방식(HTML, Javascript)
+  8. Reactivity 구현
+
+## 2025-12-22 강의 시청
+### 섹션 2. Vue.js소개
+  9. Reactivity 코드 라이브러리화 하기
+     - MDN 즉시 실행 함수 설명 문서 (https://developer.mozilla.org/ko/docs/Glossary/IIFE)
+ 10. Hello Vue.js와 뷰 개발자 도구
+
+ ### 섹션 3. 인스턴스
+ 11. 인스턴스 소개
+ 12. 인스턴스와 생성자 함수
+     - MDN 생성자 함수 설명 문서 (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function)
+     - MDN Prototype 설명 문서 (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor)
