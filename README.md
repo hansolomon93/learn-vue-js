@@ -34,3 +34,4 @@
  12. 인스턴스와 생성자 함수
      - <a href='https://developer.mozilla.org/ko/docs/Glossary/IIFE](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function'>MDN 생성자 함수 설명 문서</a>
      - <a href='https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor'>MDN Prototype 설명 문서</a>
+ 13. 인스턴스 옵션 속성
