@@ -26,11 +26,11 @@
 ## 2025-12-22 강의 시청
 ### 섹션 2. Vue.js소개
   9. Reactivity 코드 라이브러리화 하기
-     - MDN 즉시 실행 함수 설명 문서 (https://developer.mozilla.org/ko/docs/Glossary/IIFE)
+     - <a href='https://developer.mozilla.org/ko/docs/Glossary/IIFE'>MDN 즉시 실행 함수 설명 문서</a>
  10. Hello Vue.js와 뷰 개발자 도구
 
  ### 섹션 3. 인스턴스
  11. 인스턴스 소개
  12. 인스턴스와 생성자 함수
-     - MDN 생성자 함수 설명 문서 (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function)
-     - MDN Prototype 설명 문서 (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor)
+     - <a href='https://developer.mozilla.org/ko/docs/Glossary/IIFE](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Function'>MDN 생성자 함수 설명 문서</a>
+     - <a href='https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor'>MDN Prototype 설명 문서</a>
